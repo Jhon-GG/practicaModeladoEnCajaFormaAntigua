@@ -20,7 +20,7 @@
     border: 1px solid black;
     padding: 0;
     background-color: red;
-    margin: 4px 0px 0 0px;
+    margin: 0px 0px 0 0px;
     width: 100%;
     font-size: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -233,7 +233,7 @@
     border-color: black;
     margin: 0 0 0 0;
     width: 100%;
-    font-size: 30px;
+    font-size: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
     align-items: center;
@@ -274,51 +274,237 @@
     text-align: center;
 }
 
-.p3{
+
+.espacio2{
+    width: 21%;
+}
+
+.esp2{
     outline: 2px solid black;
     border: 1px solid black;
     padding: 0;
-    background-color: #14c71d;
-    color: #000;
+    background-color: #b314e4;
+    color: #b314e4;
     border-color: black;
     margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    width: 36%;
+    font-size: 24px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
     align-items: center;
     text-align: center;
+}
+
+.espacio3{
+    width: 21%;
+}
+
+.esp3{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
+    border-color: black;
+    margin: -29px 0 0 95px;
+    width: 15%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.Parrafo3{ 
+    width: 21% ;
+}
+
+.p3{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    border-color: black;
+    margin: -29.5px 0 0 134px;
+    width: 47.7%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+.espacio4{
+    width: 21%;
+}
+
+.esp4{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 36%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.espacio5{
+    width: 21%;
+}
+
+.esp5{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
+    border-color: black;
+    margin: -29px 0 0 95px;
+    width: 15%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.Parrafo4{ 
+    width: 21% ;
 }
 
 .p4{
     outline: 2px solid black;
     border: 1px solid black;
     padding: 0;
-    background-color: #14c71d;
-    color: #000;
+    background-color: #b314e4;
+    border-color: black;
+    margin: -29.5px 0 0 134px;
+    width: 47.7%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.espacio6{
+    width: 21%;
+}
+
+.esp6{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
     border-color: black;
     margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    width: 36%;
+    font-size: 24px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
     align-items: center;
     text-align: center;
 }
 
+.espacio7{
+    width: 21%;
+}
+
+.esp7{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
+    border-color: black;
+    margin: -29px 0 0 95px;
+    width: 15%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.Parrafo5{ 
+    width: 21% ;
+}
+
 .p5{
     outline: 2px solid black;
     border: 1px solid black;
     padding: 0;
-    background-color: #14c71d;
-    color: #000;
+    background-color: #b314e4;
+    border-color: black;
+    margin: -29.5px 0 0 134px;
+    width: 47.7%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+.espacio8{
+    width: 21%;
+}
+
+.esp8{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
     border-color: black;
     margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    width: 36%;
+    font-size: 24px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
     align-items: center;
+    text-align: center;
+}
+
+.espacio9{
+    width: 21%;
+}
+
+.esp9{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    color: #b314e4;
+    border-color: black;
+    margin: -29px 0 0 95px;
+    width: 15%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.Parrafo6{ 
+    width: 21% ;
+}
+
+.p6{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: #b314e4;
+    border-color: black;
+    margin: -29.5px 0 0 134px;
+    width: 47.7%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
     text-align: center;
 }
 
@@ -342,6 +528,55 @@
     text-align: center;
 }
 
+.fig5{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 2px 0 0 0;
+    width: 36%;
+    height: auto;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+.item5{
+    width: 21%;
+}
+
+.Itm5{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: -29.5px 0 0 95px;
+    position: relative;
+    width: 62.7%;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+.fig6{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 2px 0 0 0;
+    width: 36%;
+    height: auto;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    text-align: center;
+}
+
 .item6{
     width: 21%;
 }
@@ -350,15 +585,29 @@
     outline: 2px solid black;
     border: 1px solid black;
     padding: 0;
-    background-color: #bc14e1;
-    color: #000;
+    background-color: rgb(0, 94, 255);
     border-color: black;
-    margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    margin: -29.5px 0 0 95px;
+    position: relative;
+    width: 62.7%;
+    font-size: 24px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
-    align-items: center;
+    text-align: center;
+}
+
+.fig7{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 2px 0 0 0;
+    width: 36%;
+    height: auto;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
     text-align: center;
 }
 
@@ -370,33 +619,30 @@
     outline: 2px solid black;
     border: 1px solid black;
     padding: 0;
-    background-color: #bc14e1;
-    color: #000;
+    background-color: rgb(0, 94, 255);
     border-color: black;
-    margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    margin: -29.5px 0 0 95px;
+    position: relative;
+    width: 62.7%;
+    font-size: 24px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
-    align-items: center;
     text-align: center;
 }
 
-.espacio1{
-    width: 21%;
-}
 
-.esp1{
+.fotter{
+    outline: 2px solid black;
+    border: 1px solid black;
     padding: 0;
-    background-color: #fff;
-    color: #fff;
+    background-color: rgb(238, 108, 9);
     border-color: black;
     margin: 0 0 0 0;
-    width: 100%;
-    font-size: 30px;
+    position: relative;
+    width: 256.5px;
+    font-size: 29px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
-    align-items: center;
     text-align: center;
+    border-radius: 3%;
 }
-

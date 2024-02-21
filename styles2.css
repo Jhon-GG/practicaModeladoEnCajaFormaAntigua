@@ -1,0 +1,65 @@
+.blanco{
+    width: 70%;
+}
+
+.blan{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    color: red;
+    background-color: red;
+    margin: -587px 0px 0px 257px;
+    width: 967px;
+    font-size: 44px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    border-color: 2px solid #000;
+}
+
+.dashBoard2{
+    width: 21%;
+}
+
+.dash{
+    outline: 2px solid black;
+    border: 1px solid black;
+    padding: 0;
+    background-color: orangered;
+    border-color: black;
+    margin: 0 0 0 260px;
+    width: 100%;
+    font-size: 46px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+
+.caja{
+    outline: 2px solid black;
+    border: 1px solid black;
+    width: 10%;
+    margin: -80px 0 0 1000px;
+    border-radius: 2%;
+    position: absolute;
+}
+
+.madre1, .madre2, .madre3{
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    background: yellow;   
+    border-radius: 4%;
+}
+
+.circulo{
+    width: 100%;
+}
+
+.cir{
+    padding: 0;
+    background: transparent;
+    font-size: 40px;
+    margin-left: 1090px;
+    margin-top: -110px;
+    position: absolute;
+}
