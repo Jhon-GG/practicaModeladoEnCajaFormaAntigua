@@ -7,12 +7,12 @@
 }    
 
 .container {
-    width: 100%;
+    width: 100%;    
     background: transparent; 
 }  
 
 .box1{
-    width: 29%;
+    width: 16%;
 }
 
 .titulo {
@@ -20,7 +20,7 @@
     background-color: red;
     margin: 4px 0px 0 0px;
     width: 100%;
-    font-size: 20px;
+    font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     overflow: hidden;
 }
@@ -34,12 +34,108 @@
 }
 
 .box2{
-    width: 29%;
+    width: 16%;
 }
 
 .dashBoard {
     padding: 0;
     background-color: orangered;
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+
+.Parrafo1{
+    width: 16% ;
+}
+
+.p1{
+    padding: 0;
+    background-color: rgb(0, 255, 255);
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+
+.item1{
+    width: 16%;
+}
+
+.Itm1{
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.item2{
+    width: 16%;
+}
+
+.Itm2{
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.item3{
+    width: 16%;
+}
+
+.Itm3{
+    padding: 0;
+    background-color: rgb(0, 94, 255);
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+
+.Parrafo2{
+    width: 16%;
+}
+
+.p2{
+    padding: 0;
+    background-color: rgb(0, 255, 255);
+    border-color: black;
+    margin: 0 0 0 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+
+.nada{
+    width: 16%;
+}
+
+.n1{
+    padding: 0;
+    background-color: #fff;
     border-color: black;
     margin: 0 0 0 0;
     width: 100%;
